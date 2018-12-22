@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HLineChartView">
+        <!-- format attrs-->
+        <attr name="hlc_format_x_min" format="float"/>
+        <attr name="hlc_format_x_max" format="float"/>
+        <attr name="hlc_format_x_gird_scale" format="float"/>
+        <attr name="hlc_format_x_label" format="string" />
+
+        <attr name="hlc_format_y_min" format="float"/>
+        <attr name="hlc_format_y_max" format="float"/>
+        <attr name="hlc_format_y_gird_scale" format="float"/>
+        <attr name="hlc_format_y_label" format="string"/>
+
+        <!-- UI attrs-->
+        <attr name="hlc_axis_visible" format="boolean"/>
+        <attr name="hlc_axis_label_visible" format="boolean"/>
+        <attr name="hlc_gird_scale_visible" format="boolean"/>
+        <attr name="hlc_label_visible" format="boolean"/>
+        <attr name="hlc_point_visible" format="boolean"/>
+
+        <attr name="hlc_chart_padding_left" format="dimension"/>
+        <attr name="hlc_chart_padding_top" format="dimension"/>
+        <attr name="hlc_chart_padding_right" format="dimension"/>
+        <attr name="hlc_chart_padding_bottom" format="dimension"/>
+    </declare-styleable>
+</resources>

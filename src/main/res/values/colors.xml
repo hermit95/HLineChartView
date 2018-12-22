@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <array name="line_chart_color">
+        <item>#FF3366CC</item>
+        <item>#FFFF9900</item>
+        <item>#FF109618</item>
+        <item>#FFDC3912</item>
+        <item>#FF990099</item>
+    </array>
+    <color name="base_line">#FF333333</color>
+</resources>
